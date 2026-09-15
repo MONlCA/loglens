@@ -1,0 +1,14 @@
+2026-09-15 09:00:01 INFO API server started
+2026-09-15 09:03:12 INFO GET /health 200
+2026-09-15 09:08:44 WARN Cache response slower than expected
+2026-09-15 09:12:10 ERROR ConnectionTimeout while calling payments service
+2026-09-15 09:12:14 ERROR ConnectionTimeout while calling payments service
+2026-09-15 09:20:32 INFO POST /checkout 201
+2026-09-15 10:02:18 WARN Rate limit nearing threshold
+2026-09-15 10:05:41 ERROR AuthenticationFailed for service account
+2026-09-15 10:06:02 ERROR AuthenticationFailed for service account
+2026-09-15 10:15:55 INFO Worker completed job 8831
+2026-09-15 11:01:07 DEBUG Retrying webhook delivery
+2026-09-15 11:01:10 ERROR RateLimitExceeded during webhook delivery
+2026-09-15 11:03:22 WARN Webhook queue depth is high
+2026-09-15 11:04:16 INFO Webhook delivery recovered
